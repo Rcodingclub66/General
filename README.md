@@ -1,4 +1,4 @@
-<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rainbowr.gif" width="400">
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rainbowr.gif" width="200">
 
 
 # Rcodingclub66: Introduction
