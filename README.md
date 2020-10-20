@@ -1,3 +1,6 @@
+<img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rainbowr.gif" width="400">
+
+
 # Rcodingclub66: Introduction
 
 The **Rcodingclub66** is a group of students and researchers, mainly in the field of ecology and connected to Perpignan, France.     
