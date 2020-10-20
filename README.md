@@ -1,4 +1,5 @@
 <img src="https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/rainbowr.gif" width="200">
+Artwork by @allison_horst
 
 
 # Rcodingclub66: Introduction
